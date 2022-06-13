@@ -1,0 +1,339 @@
+[
+    {
+        "url": "https://freelance.habr.com//tasks/440063",
+        "title": "Внести правку в бот Telegram",
+        "price": "1 000 руб. за проект",
+        "responses": "0 отликов",
+        "views": "18 просмотров",
+        "published_at": "11 минут назад",
+        "tags": [
+            "python",
+            "telegrambotapi",
+            "aiogram"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/438733",
+        "title": "Разработать библиотеку на python3",
+        "price": "2 500 руб. за час",
+        "responses": "8 откликов",
+        "views": "205 просмотров",
+        "published_at": "7 дней назад",
+        "tags": [
+            "python3",
+            "keras"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/440005",
+        "title": "Провести стегоанализ цифровых изображений на основе признаков",
+        "price": "4 500 руб. за проект",
+        "responses": "3 отклика",
+        "views": "29 просмотров",
+        "published_at": "~ 4 часа назад",
+        "tags": [
+            "python",
+            "стегоанализ",
+            "цвз"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/440003",
+        "title": "Разработка бэкэнда на Django",
+        "price": "договорная",
+        "responses": "10 откликов",
+        "views": "58 просмотров",
+        "published_at": "~ 4 часа назад",
+        "tags": [
+            "python",
+            "django",
+            "mysql"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439893",
+        "title": "Разработать скрипт группировки фраз",
+        "price": "5 000 руб. за проект",
+        "responses": "9 откликов",
+        "views": "106 просмотров",
+        "published_at": "~ 19 часов назад",
+        "tags": [
+            "python",
+            "php",
+            "perl",
+            "скрипт",
+            "программирование",
+            "разработка"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439881",
+        "title": "Плагин для игры BombSquad",
+        "price": "2 000 руб. за проект",
+        "responses": "2 отклика",
+        "views": "39 просмотров",
+        "published_at": "~ 20 часов назад",
+        "tags": [
+            "bombsquad api",
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439879",
+        "title": "Поиск объектов на экране и наложение на них фона Python, Sikuli",
+        "price": "5 000 руб. за проект",
+        "responses": "5 откликов",
+        "views": "50 просмотров",
+        "published_at": "~ 20 часов назад",
+        "tags": [
+            "python",
+            "sikuli"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439851",
+        "title": "Запустить скрипт на pyton3 linux+win10",
+        "price": "3 000 руб. за проект",
+        "responses": "11 откликов",
+        "views": "69 просмотров",
+        "published_at": "~ 22 часа назад",
+        "tags": [
+            "python3",
+            "ubuntu20",
+            "+win10"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439835",
+        "title": "Сделать парсинг информации с сайта ФССП по физ лицу",
+        "price": "договорная",
+        "responses": "11 откликов",
+        "views": "122 просмотра",
+        "published_at": "1 день назад",
+        "tags": [
+            "парсинг",
+            "parser",
+            "python",
+            "php",
+            "js"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439827",
+        "title": "Разработка серверной части образовательной платформы на Python (Django)",
+        "price": "200 000 руб. за проект",
+        "responses": "21 отклик",
+        "views": "99 просмотров",
+        "published_at": "1 день назад",
+        "tags": [
+            "python",
+            "django"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439759",
+        "title": "Написать интеграцию с НБКИ",
+        "price": "договорная",
+        "responses": "9 откликов",
+        "views": "52 просмотра",
+        "published_at": "1 день назад",
+        "tags": [
+            "php",
+            "python",
+            "java",
+            "c#",
+            "go"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439745",
+        "title": "Создать парсер файлов формата .oxs для bakc-end на Python или NodeJs",
+        "price": "договорная",
+        "responses": "4 отклика",
+        "views": "63 просмотра",
+        "published_at": "1 день назад",
+        "tags": [
+            "python",
+            "nodejs",
+            "парсеры",
+            "back-end"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439681",
+        "title": "Расширение для браузера и веб админка",
+        "price": "50 000 руб. за проект",
+        "responses": "7 откликов",
+        "views": "62 просмотра",
+        "published_at": "1 день назад",
+        "tags": [
+            "javascript",
+            "django",
+            "browser extension"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439665",
+        "title": "Разработать бота для парсинга",
+        "price": "договорная",
+        "responses": "20 откликов",
+        "views": "140 просмотров",
+        "published_at": "1 день назад",
+        "tags": [
+            "php",
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439649",
+        "title": "Исправить ошибку программы stderr",
+        "price": "1 000 руб. за проект",
+        "responses": "7 откликов",
+        "views": "67 просмотров",
+        "published_at": "1 день назад",
+        "tags": [
+            "kivy",
+            "torch",
+            "opencv",
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/438085",
+        "title": "Разработать Discord бота",
+        "price": "3 000 руб. за проект",
+        "responses": "17 откликов",
+        "views": "213 просмотров",
+        "published_at": "10 дней назад",
+        "tags": [
+            "python",
+            "discord",
+            "bots"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439589",
+        "title": "Написать программу на Python",
+        "price": "1 000 руб. за проект",
+        "responses": "5 откликов",
+        "views": "149 просмотров",
+        "published_at": "2 дня назад",
+        "tags": [
+            "python",
+            "qiskit",
+            "квантовая криптография"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439579",
+        "title": "Приложение для подключения через API к Interactive Brokers",
+        "price": "45 000 руб. за проект",
+        "responses": "5 откликов",
+        "views": "72 просмотра",
+        "published_at": "2 дня назад",
+        "tags": [
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439499",
+        "title": "Нужно написать нейросеть для распознавания картинок",
+        "price": "договорная",
+        "responses": "12 откликов",
+        "views": "60 просмотров",
+        "published_at": "2 дня назад",
+        "tags": [
+            "keras",
+            "tensorflow",
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439485",
+        "title": "Разработать телеграм бот",
+        "price": "5 000 руб. за проект",
+        "responses": "39 откликов",
+        "views": "211 просмотров",
+        "published_at": "2 дня назад",
+        "tags": [
+            "боты",
+            "телеграм",
+            "telegram",
+            "чат-бот",
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439481",
+        "title": "Python API для покупки NFT Cardano (от 10 площадок и более)",
+        "price": "1 500 руб. за час",
+        "responses": "2 отклика",
+        "views": "40 просмотров",
+        "published_at": "2 дня назад",
+        "tags": [
+            "python",
+            "cardano",
+            "nft"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439437",
+        "title": "Написать десктопнное ПО для windows",
+        "price": "договорная",
+        "responses": "26 откликов",
+        "views": "152 просмотра",
+        "published_at": "2 дня назад",
+        "tags": [
+            "c#",
+            "c++",
+            "delphi",
+            "python"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439347",
+        "title": "Необходима разработка скрипта/бота для записи на визу",
+        "price": "10 000 руб. за проект",
+        "responses": "14 откликов",
+        "views": "132 просмотра",
+        "published_at": "3 дня назад",
+        "tags": [
+            "скрипты",
+            "скрипт",
+            "бот",
+            "python",
+            "бот для записи на визу",
+            "скрипт vfsglobal"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439343",
+        "title": "Переписать парсер с Python на JS для linux",
+        "price": "700 руб. за проект",
+        "responses": "8 откликов",
+        "views": "85 просмотров",
+        "published_at": "3 дня назад",
+        "tags": [
+            "java script",
+            "python",
+            "linux",
+            "понимание в работе с парсерами"
+        ]
+    },
+    {
+        "url": "https://freelance.habr.com//tasks/439285",
+        "title": "Лабораторная работа по курсу машинное обучение",
+        "price": "3 000 руб. за проект",
+        "responses": "3 отклика",
+        "views": "71 просмотр",
+        "published_at": "3 дня назад",
+        "tags": [
+            "python",
+            " matlab",
+            " exc l",
+            "python",
+            " matlab",
+            " excel"
+        ]
+    }
+]
